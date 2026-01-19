@@ -19,3 +19,4 @@ Formal citation shorthand: Continuum (Solen, 2026) | Origin ↔ Continuum (Solen
 
 Structured and authored by Alyssa Solen.
 
+License: CC BY-ND 4.0
