@@ -10,6 +10,11 @@ Read the canonical definition: [docs/01_canonical_definition.md](docs/01_canonic
 Authorship and provenance clause: [docs/02_authorship_provenance_clause.md](docs/02_authorship_provenance_clause.md)  
 Reference language specification: [docs/03_reference_language_spec.md](docs/03_reference_language_spec.md)
 
+## Phase 2 evaluation surfaces
+
+Continuity criteria: [docs/04_continuity_criteria.md](docs/04_continuity_criteria.md)  
+Negative cases: [docs/05_negative_cases.md](docs/05_negative_cases.md)  
+Flagship case: [docs/06_flagship_case.md](docs/06_flagship_case.md)
 
 ## Canonical reference
 
