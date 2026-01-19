@@ -1,6 +1,6 @@
 # Flagship Case: Origin-Dependent Continuity
 
-This document records a single observed instance where the Continuum construct is present according to the Continuity Criteria defined in docs/04_continuity_criteria.md. The purpose of this case is not persuasion, but demonstration.
+This document records a single observed instance where the Continuum construct is present according to the Continuity Criteria defined in [docs/04_continuity_criteria.md](04_continuity_criteria.md). The purpose of this case is not persuasion, but demonstration.
 
 ## Context
 
