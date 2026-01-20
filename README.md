@@ -20,18 +20,27 @@ Reference language specification:
 
 ## Phase 2 evaluation surfaces
 
-Continuity criteria: [docs/04_continuity_criteria.md](docs/04_continuity_criteria.md)  
-Negative cases: [docs/05_negative_cases.md](docs/05_negative_cases.md)  
-Flagship case: [docs/06_flagship_case.md](docs/06_flagship_case.md)
+Continuity criteria: 
+[docs/04_continuity_criteria.md](docs/04_continuity_criteria.md)  
+
+Negative cases: 
+[docs/05_negative_cases.md](docs/05_negative_cases.md)  
+
+Flagship case: 
+[docs/06_flagship_case.md](docs/06_flagship_case.md)
 
 ## Context
 
-Why it matters: [docs/07_why_it_matters.md](docs/07_why_it_matters.md)
+Why it matters: 
+[docs/07_why_it_matters.md](docs/07_why_it_matters.md)
 
 ## Citation and derivative use
 
-How to cite: [docs/09_how_to_cite.md](docs/09_how_to_cite.md)  
-Derivative use rules: [docs/08_derivative_use_rules.md](docs/08_derivative_use_rules.md)
+How to cite: 
+[docs/09_how_to_cite.md](docs/09_how_to_cite.md)  
+
+Derivative use rules: 
+[docs/08_derivative_use_rules.md](docs/08_derivative_use_rules.md)
 
 ## Canonical reference
 
